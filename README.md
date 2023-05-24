@@ -12,7 +12,7 @@ I'm a software engineer with a strong interest in back-end development and data 
 - 🔭 I’m currently working on a `Java` project using `Spring framework`, `Hibernate` and `MySQL`.
 - 📫 How to reach me: adam97641@gmail.com
 - ⚡ Fun fact: Watch out if we ever cross paths in an FPS game, I've mastered the art of one-tap eliminations! ⌨️🖥️🖱️
-<p align="left">🌱 I’m currently learning Spring and Hibernate <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" height="23px"></p>
+<p align="center">🌱 I’m currently learning Spring and Hibernate <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" height="23px"></p>
 
 ## 🛠️ My skills
 
