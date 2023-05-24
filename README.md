@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Adam!
+# Hi, I'm Adam! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adamkeidz?style=social)](https://twitter.com/adamkeidz)
 [![Linkedin: Ahmad Adam](https://img.shields.io/badge/-Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-keidz/)](https://www.linkedin.com/in/ahmad-a-8bb2b1120/)
