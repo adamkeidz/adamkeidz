@@ -10,9 +10,9 @@ I'm a software engineer with a strong interest in back-end development and data 
 
 
 - 🔭 I’m currently working on a `Java` project using `Spring framework`, `Hibernate` and `MySQL`.
-- 🌱 I’m currently learning Spring and Hibernate
+- 🌱 I’m currently learning `Spring` and `Hibernate`
 - 📫 How to reach me: adam97641@gmail.com
-- ⚡ Fun fact: I can one tap you in FPS games!
+- ⚡ Fun fact: Watch out if we ever cross paths in an FPS game, I've mastered the art of one-tap eliminations! ⌨️🖥️🖱️
 
 ## 🛠️ My skills
 
