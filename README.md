@@ -50,6 +50,10 @@ I'm a software engineer with a strong interest in back-end development and data 
     <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
+## 📈 My GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=adamkeidz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamkeidz&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamkeidz&count_private=true&theme=radical" alt="Jas-Script" />
 
-
+Credit: [Jas-Script](https://github.com/Jas-Script)
