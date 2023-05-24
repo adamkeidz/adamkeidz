@@ -59,5 +59,7 @@ I'm a software engineer with a strong interest in back-end development and data 
 <img src="https://github-readme-stats.vercel.app/api?username=adamkeidz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamkeidz&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamkeidz&count_private=true&theme=radical" alt="Jas-Script" />
+
 I like Java tho
+
 Credit: [Jas-Script](https://github.com/Jas-Script)
