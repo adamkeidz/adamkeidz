@@ -1,3 +1,7 @@
+<div align="center"> 
+  <img src="https://c.tenor.com/ybpLXCCzWVEAAAAi/lizard.gif" width="200px">
+</div>
+
 # Hi, I'm Adam! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adamkeidz?style=social)](https://twitter.com/adamkeidz)
