@@ -16,7 +16,7 @@ I'm a software engineer with a strong interest in back-end development and data 
 
 ## 🛠️ My skills
 
-## 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
